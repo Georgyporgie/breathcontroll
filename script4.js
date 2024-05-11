@@ -50,7 +50,7 @@ var Timer = function(opts) {
   function countDown() {
     self.seconds--;
     if (self.minutes == 0 && self.seconds == 0) {
-      self.stop();window.location.href = "adem.html";
+      self.stop();window.location.href = "index.html";
     }
 
     if (self.seconds < 0) {
