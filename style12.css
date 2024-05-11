@@ -97,3 +97,9 @@ border-radius: 50px;
 color: white;
  margin-bottom: 100px;
 }
+
+#timer  {
+color: #FF0000;border: solid 3px #FF0000 ; z-index:-200;
+
+
+}
